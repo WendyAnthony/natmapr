@@ -3,4 +3,4 @@ Map Nature Observations with Leaflet and GGPlot2 from iNaturalist or other natur
 
 You can install the development version from Github with:
 
-remotes::install_github("WendyAnthony/natmapr")
+```remotes::install_github("WendyAnthony/natmapr")```
